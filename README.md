@@ -1,5 +1,5 @@
 # Computational_Plant_Science_ML_Module
-I am co-teaching the Computational Plant Sciences course in Spring 2025 at the University of Arizona. I taught the Machine Learning module, and all related coding exercises and materials are available here on GitHub.
+I am co-teaching the Computational Plant Sciences course in Spring 2025 at the University of Arizona. I taught the Machine Learning module, and all related coding exercises are available here on GitHub.
 
 
 * Class_V1_V1.py -> Generate a 2D rectangle of size 200 x 200 with a smaller rectangle inside at random positions, developed in Class 2/18.
